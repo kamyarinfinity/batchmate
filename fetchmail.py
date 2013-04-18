@@ -13,9 +13,9 @@ HOST = 'imap.gmail.com'
 USERNAME = 'username'
 PASSWORD = 'password'
 MAILBOX = 'INBOX'
-GMAIL_SEARCH = "has:attachment label:hw1"
-SUBJECT_REGEX = "([0-9]{8})"
-BODY_REGEX = "([0-9]{8})"
+GMAIL_SEARCH = ""
+SUBJECT_REGEX = "(.*)"
+BODY_REGEX = "(.*)"
 START_IND = 1
 
 # ignore mimes that contain any of the followings
