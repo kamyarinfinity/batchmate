@@ -8,10 +8,10 @@ import argparse
 import sys
 
 # CONFIGURATION
-BASE_PATH = '/Courses/TA/Signal & Systems/HW1S/'
+BASE_PATH = '~/homeworks'
 HOST = 'imap.gmail.com'
-USERNAME = 'sharif.signal.911'
-PASSWORD = 'wearethechampions'
+USERNAME = 'username'
+PASSWORD = 'password'
 MAILBOX = 'INBOX'
 GMAIL_SEARCH = "has:attachment label:hw1"
 SUBJECT_REGEX = "([0-9]{8})"
